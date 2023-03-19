@@ -1,7 +1,5 @@
-Question 1: Write a Solidity function to implement a voting system, where each address can vote only once.
+// Solidity function to implement a voting system, where each address can vote only once.
 
-Solution: The following code shows the voting system having different candidates and user can vote only once, this is achieved by using boolean.
-Go throw the following code to understand in detail
 
 
 
