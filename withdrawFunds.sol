@@ -38,10 +38,15 @@ function withdraw(uint amount) public payable{
 
      balance -= amount;
 
-    
-        withdrawals[msg.sender] += amount;
-        withdrawalTime = block.timestamp;
+     withdrawals[msg.sender] += amount;
+     withdrawalTime = block.timestamp;
     }
+    
+    function getBalance(uint amount) public view returns(uint) {
+        return address(this).balance;
+    }
+    
+    
 
 
 }
