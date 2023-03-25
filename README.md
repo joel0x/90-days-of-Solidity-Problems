@@ -7,3 +7,5 @@ Every question will have its solution as well a bit of explination. Most of the 
 [Question 1: Voting System](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Voting_System.sol)
 <br>
 [Question 2: Escrow System](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Escrow_System.sol)
+<br>
+[Question 3: Withdraw Funds](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/withdrawFunds.sol)
