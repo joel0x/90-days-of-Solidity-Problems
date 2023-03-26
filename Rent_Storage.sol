@@ -45,5 +45,5 @@ contract CloudStorageRent {
     function withdrawRentalFunds() external {
         require(msg.sender == owner, "Only the contract owner can withdraw rental funds.");
         require(address(usdcToken).transfer(owner, usdcToken.balanceOf(address(this))), "Withdrawal failed.");
-    }
+    } 
 }
