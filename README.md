@@ -14,3 +14,4 @@ Every question will have its solution as well a bit of explanation. Most of the 
 <br>
 [Question 5: Staked Rewards](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Staked_Rewards.sol)
 <br>
+[Question 6: Verify Identity](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Verify_Identity.sol)
