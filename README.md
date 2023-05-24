@@ -19,4 +19,6 @@ Every question will have its solution as well a bit of explanation. Most of the 
 [Question 7: Check Balance](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Check_Balance.sol)
 <br>
 [Question 8: Lottery_system](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/Lottery_System.sol)
+<br>
+[Question 9: payToOwner](https://github.com/joel-machado/90-days-of-Solidity-Problems/blob/main/payToOwner.sol)
 
